@@ -1,4 +1,4 @@
 1，按照data文件中的格式存放图片
 2，FED数据集以上传至百度云盘
-3，环境为pytorch
+3，环境为pytorch、cv2
 4，有问题可以给我发邮件:wanghaining_cqupt@163.com
