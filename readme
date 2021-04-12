@@ -1,4 +1,4 @@
-1，按照data文件中的格式存放图片
+1，按照data文件中的格式存放图片,其中train.txt与test.txt中的0，1，2，3，4，5，6 代表7种表情
 2，FED数据集以上传至百度云盘
 3，环境为pytorch、cv2
 4，有问题可以给我发邮件:wanghaining_cqupt@163.com
